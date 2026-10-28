@@ -1,0 +1,10 @@
+# 编辑器/系统
+.vscode/
+.DS_Store
+
+# 依赖与构建产物
+node_modules/
+dist/
+
+# 日志
+*.log
